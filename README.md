@@ -1,10 +1,6 @@
-# FedRL: Federated Reinforcement Learning with Attention for Bottleneck-Aware SFC Orchestration
-
 [![Status](https://img.shields.io/badge/Status-Under_Review-orange.svg)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)]()
-
-> **Official PyTorch Implementation** for the paper: *"FedRL: Federated Reinforcement Learning with Attention for Bottleneck-Aware SFC Orchestration"*. (Currently under review at IEEE JCC 2026).
 
 ## 📖 Overview
 
